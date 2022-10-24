@@ -4,7 +4,7 @@
 #
 Name     : pypi-kerberos
 Version  : 1.3.1
-Release  : 43
+Release  : 44
 URL      : https://files.pythonhosted.org/packages/39/cd/f98699a6e806b9d974ea1d3376b91f09edcb90415adbf31e3b56ee99ba64/kerberos-1.3.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/39/cd/f98699a6e806b9d974ea1d3376b91f09edcb90415adbf31e3b56ee99ba64/kerberos-1.3.1.tar.gz
 Summary  : Kerberos high-level interface
